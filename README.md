@@ -4,8 +4,8 @@
 
 ### Senior Cloud-Native & AIOps Engineer | MLOps | Kubernetes | Multi-Cloud Infrastructure
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devashishnayak/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.nayakops@outlook.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dev-opsss&color=blueviolet&style=flat-square)
 
