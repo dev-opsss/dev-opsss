@@ -17,7 +17,7 @@
 
 Senior Cloud-Native & AIOps Engineer with **10+ years** architecting, automating, and scaling distributed ML/AI systems across AWS, Azure, and GCP. Currently at **Apple** (AiML Infrastructure), building production-grade ML platforms serving millions of users.
 
-🎯 Uptime: 99.95% | MTTR: ↓73% | Cost: ↓25% | Scale: Petabyte+
+🎯 Uptime: 99.95% | MTTR: ↓80% | Cost: ↓25% | Scale: Petabyte+
 text
 
 ### What I Do
