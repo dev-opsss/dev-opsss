@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Devashish Nayak
+# 👋 Hi, I'm Devashish N
 
 ### Senior DevOps / SRE | Kubernetes | Terraform | Data & ML Platforms
 
